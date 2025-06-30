@@ -1,0 +1,36 @@
+# Binaries for programs
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*_test
+
+# Compiled Go packages
+*.a
+*.o
+
+# Build artifacts
+bin/
+pkg/
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.swp
+*.bak
+*~
+
+# Dependency management tools
+vendor/
+
+# Environment variables and sensitive data
+.env
+.local
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
